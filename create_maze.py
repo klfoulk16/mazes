@@ -90,7 +90,7 @@ def write_img(maze, width, height):
     img.show()
 
 def main():
-
+    # maze width and height must be odd numbers for the maze creation functions to work properly
     width = 11
     height = 11
 
